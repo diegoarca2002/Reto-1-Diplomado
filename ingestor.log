@@ -309,3 +309,8 @@
 2025-12-23 14:08:13,824 - INFO - Total de archivos procesados: 100
 2025-12-23 14:08:13,933 - INFO - Duración: 5.82 segundos
 2025-12-23 14:08:13,935 - INFO - ============================================================
+2025-12-24 13:18:54,882 - INFO - ============================================================
+2025-12-24 13:18:54,889 - INFO - INICIANDO BRONZE INGESTOR PIPELINE
+2025-12-24 13:18:54,898 - INFO - ============================================================
+2025-12-24 13:18:54,902 - INFO - Carpetas de destino verificadas/creadas exitosamente
+2025-12-24 13:18:54,916 - WARNING - No se encontraron archivos en landing/
